@@ -1,4 +1,9 @@
 --To run the code
-
-php artisan serve
-npm dev run
+<ul>
+    <li>
+        php artisan serve     
+    </li>
+    <li>
+        npm dev run   
+    </li>
+</ul>
